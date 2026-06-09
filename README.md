@@ -1,48 +1,48 @@
 ## SQL-30-Day-Challenge
 
 Week1_Basics/
-│   ├── Day01_SELECT_WHERE.sql
-│   ├── Day02_AND_OR_NOT.sql
-│   ├── Day03_ORDER_BY_LIMIT.sql
-│   ├── Day04_DISTINCT_COUNT_SUM_AVG.sql
-│   ├── Day05_GROUP_BY_HAVING.sql
-│   ├── Day06_NULL_VALUES.sql
-│   └── Day07_MiniProject_Employee_Analysis.sql
+-  Day01_SELECT_WHERE.sql
+-  Day02_AND_OR_NOT.sql
+-  Day03_ORDER_BY_LIMIT.sql
+-  Day04_DISTINCT_COUNT_SUM_AVG.sql
+-  Day05_GROUP_BY_HAVING.sql
+-  Day06_NULL_VALUES.sql
+-  Day07_MiniProject_Employee_Analysis.sql
 
 ---
 
 Week2_Intermediate/
-│   ├── Day08_INNER_JOIN.sql
-│   ├── Day09_LEFT_RIGHT_JOIN.sql
-│   ├── Day10_FULL_OUTER_SELF_JOIN.sql
-│   ├── Day11_SUBQUERIES.sql
-│   ├── Day12_CASE_WHEN.sql
-│   ├── Day13_STRING_FUNCTIONS.sql
-│   └── Day14_MiniProject_Sales_Analysis.sql
+-  Day08_INNER_JOIN.sql
+-  Day09_LEFT_RIGHT_JOIN.sql
+-  Day10_FULL_OUTER_SELF_JOIN.sql
+-  Day11_SUBQUERIES.sql
+-  Day12_CASE_WHEN.sql
+-  Day13_STRING_FUNCTIONS.sql
+-  Day14_MiniProject_Sales_Analysis.sql
 
 ---
 
  Week3_Advanced/
-│   ├── Day15_DATE_FUNCTIONS.sql
-│   ├── Day16_WINDOW_FUNCTIONS.sql
-│   ├── Day17_PARTITION_BY.sql
-│   ├── Day18_CTE.sql
-│   ├── Day19_VIEWS.sql
-│   ├── Day20_STORED_PROCEDURES.sql
-│   └── Day21_MiniProject_HR_Analysis.sql
+-  Day15_DATE_FUNCTIONS.sql
+-  Day16_WINDOW_FUNCTIONS.sql
+-  Day17_PARTITION_BY.sql
+-  Day18_CTE.sql
+-  Day19_VIEWS.sql
+-  Day20_STORED_PROCEDURES.sql
+-  Day21_MiniProject_HR_Analysis.sql
 
 ---
 
 Week4_RealWorld/
-    ├── Day22_QUERY_OPTIMIZATION.sql
-    ├── Day23_INDEXES.sql
-    ├── Day24_Real_Dataset_Practice.sql
-    ├── Day25_Interview_Questions.sql
-    ├── Day26_Complex_Queries.sql
-    ├── Day27_CaseStudy1_Ecommerce.sql
-    ├── Day28_CaseStudy2_HR.sql
-    ├── Day29_CaseStudy3_Sales.sql
-    └── Day30_Final_Project.sql
+-  Day22_QUERY_OPTIMIZATION.sql
+-  Day23_INDEXES.sql
+-  Day24_Real_Dataset_Practice.sql
+-  Day25_Interview_Questions.sql
+-  Day26_Complex_Queries.sql
+-  Day27_CaseStudy1_Ecommerce.sql
+-  Day28_CaseStudy2_HR.sql
+-  Day29_CaseStudy3_Sales.sql
+-  Day30_Final_Project.sql
 
 ## 🧠 What I Learned in 30 Days
 
