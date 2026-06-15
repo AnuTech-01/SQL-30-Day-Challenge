@@ -5,7 +5,7 @@
 -- ================================================
 
 -- Table 1: Employees with department_id
-/*CREATE TABLE Contributors (
+CREATE TABLE Contributors (
     emp_id INT,
     name VARCHAR(50),
     city VARCHAR(50),
@@ -31,7 +31,7 @@ CREATE TABLE Departments (
 INSERT INTO Departments VALUES (101, 'HR');
 INSERT INTO Departments VALUES (102, 'IT');
 INSERT INTO Departments VALUES (103, 'Finance');
-INSERT INTO Departments VALUES (105, 'Marketing');*/
+INSERT INTO Departments VALUES (105, 'Marketing');
 
 SELECT * FROM Departments;
 
